@@ -44,8 +44,8 @@ If this problem interests you, start with the first milestone above. Open an iss
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for mcp-scope-map](assets/pixel-art.svg)
+![Pixel-art cover for mcp-scope-map](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [OpenMoji compass](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F9ED.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
